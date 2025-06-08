@@ -1,0 +1,15 @@
+{
+  "short_name": "KM Portfolio",
+  "name": "Krishna Sai Mulpuri - Portfolio",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#fafafa"
+}
