@@ -304,7 +304,7 @@ const Projects: React.FC = () => {
             <ExperienceCard>
               <ExperienceHeader>
                 <ExperienceInfo>
-                  <CompanyLogo src={"/mulpuri.io/logos/oracle.svg"} alt="Oracle" />
+                  <CompanyLogo src={"/logos/oracle.svg"} alt="Oracle" />
                   <ExperienceText>
                     <ExperienceTitle>Senior Software Engineer</ExperienceTitle>
                     <ExperienceCompany>Oracle</ExperienceCompany>
@@ -334,7 +334,7 @@ const Projects: React.FC = () => {
             <ExperienceCard>
               <ExperienceHeader>
                 <ExperienceInfo>
-                  <CompanyLogo src={"/mulpuri.io/logos/cisco.svg"} alt="Cisco" />
+                  <CompanyLogo src={"/logos/cisco.svg"} alt="Cisco" />
                   <ExperienceText>
                     <ExperienceTitle>Software Engineer</ExperienceTitle>
                     <ExperienceCompany>Cisco Systems</ExperienceCompany>
@@ -363,7 +363,7 @@ const Projects: React.FC = () => {
             <ExperienceCard>
               <ExperienceHeader>
                 <ExperienceInfo>
-                  <CompanyLogo src={"/mulpuri.io/logos/cisco.svg"} alt="Cisco" />
+                  <CompanyLogo src={"/logos/cisco.svg"} alt="Cisco" />
                   <ExperienceText>
                     <ExperienceTitle>Software Engineer Intern</ExperienceTitle>
                     <ExperienceCompany>Cisco Systems</ExperienceCompany>
@@ -390,7 +390,7 @@ const Projects: React.FC = () => {
             <ExperienceCard>
               <ExperienceHeader>
                 <ExperienceInfo>
-                  <CompanyLogo src={"/mulpuri.io/logos/pega.svg"} alt="Pegasystems" />
+                  <CompanyLogo src={"/logos/pega.svg"} alt="Pegasystems" />
                   <ExperienceText>
                     <ExperienceTitle>Software Engineer</ExperienceTitle>
                     <ExperienceCompany>Pegasystems</ExperienceCompany>
